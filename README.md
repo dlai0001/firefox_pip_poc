@@ -7,6 +7,7 @@ This is a proof of concept of using a package manager to install browser depende
 
 The idea is in your `requirements.txt` file, you can specify which browser your tests are dependant on using, 
 
+
   ####################
   # requirements.txt #
   ####################
