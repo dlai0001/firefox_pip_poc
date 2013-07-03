@@ -16,5 +16,6 @@ The idea is in your `requirements.txt` file, you can specify which browser your 
   zzfirefox_installer >= 20.0.0
   
   
-- David Lai
+
+David Lai
 engineeringquality.blogspot.com
